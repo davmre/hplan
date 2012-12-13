@@ -1,0 +1,4 @@
+hplan
+=====
+
+hierarchical NCSTRIPS planning
